@@ -10,5 +10,5 @@
 
 在Java11 lib 目录下的src.zip文件解压，得到所有的内容。
 
-同样在Google Play商店下载一个GitHub客户端，可以在手机，电脑人话设备阅读。
+同样在Google Play商店下载一个GitHub客户端，可以在手机，电脑设备阅读。
 
